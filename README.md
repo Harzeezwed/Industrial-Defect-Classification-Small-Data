@@ -1,0 +1,1 @@
+# Industrial-Defect-Classification-Small-Data
