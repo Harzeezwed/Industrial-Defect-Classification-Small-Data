@@ -6,7 +6,7 @@ Few-shot classification of semiconductor manufacturing defects from grayscale im
 
 ## Problem Statement
 
-Real manufacturing lines produce highly imbalanced, scarce labeled data: most units are good, defects are rare, and new defect types appear faster than they can be manually labeled at scale. This project explores whether a pretrained computer-vision backbone, fine-tuned on only a handful of images per defect class, can reach production-relevant accuracy (~85%) and how quickly that accuracy is reached as labeled examples accumulate.
+Real manufacturing lines produce highly imbalanced, scarce labeled data: most units are good, defects are rare, and new defect types appear faster than they can be manually labeled at scale. This project explores whether a pretrained computer-vision backbone, fine-tuned on only a handful of images per defect class, can reach production-relevant accuracy (~87%) and how quickly that accuracy is reached as labeled examples accumulate.
 
 ## Approach
 
